@@ -1,0 +1,9 @@
+org/baeldung/web/entity/Student.class
+org/baeldung/web/dao/StudentRepository.class
+org/baeldung/web/exception/MyResourceNotFoundException.class
+org/baeldung/web/service/IOperations.class
+org/baeldung/web/service/StudentService.class
+org/baeldung/web/service/StudentServiceImpl.class
+org/baeldung/web/main/PersistenceConfig.class
+org/baeldung/web/rest/StudentDirectoryRestController.class
+org/baeldung/web/main/Application.class
